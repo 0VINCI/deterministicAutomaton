@@ -1,0 +1,45 @@
+/Users/pawelw/Desktop/II st/LM1/LM1_myjnia/LM1_myjnia/bin/Debug/net7.0/LM1_myjnia
+/Users/pawelw/Desktop/II st/LM1/LM1_myjnia/LM1_myjnia/bin/Debug/net7.0/LM1_myjnia.deps.json
+/Users/pawelw/Desktop/II st/LM1/LM1_myjnia/LM1_myjnia/bin/Debug/net7.0/LM1_myjnia.runtimeconfig.json
+/Users/pawelw/Desktop/II st/LM1/LM1_myjnia/LM1_myjnia/bin/Debug/net7.0/LM1_myjnia.dll
+/Users/pawelw/Desktop/II st/LM1/LM1_myjnia/LM1_myjnia/bin/Debug/net7.0/LM1_myjnia.pdb
+/Users/pawelw/Desktop/II st/LM1/LM1_myjnia/LM1_myjnia/obj/Debug/net7.0/LM1_myjnia.csproj.AssemblyReference.cache
+/Users/pawelw/Desktop/II st/LM1/LM1_myjnia/LM1_myjnia/obj/Debug/net7.0/LM1_myjnia.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pawelw/Desktop/II st/LM1/LM1_myjnia/LM1_myjnia/obj/Debug/net7.0/LM1_myjnia.AssemblyInfoInputs.cache
+/Users/pawelw/Desktop/II st/LM1/LM1_myjnia/LM1_myjnia/obj/Debug/net7.0/LM1_myjnia.AssemblyInfo.cs
+/Users/pawelw/Desktop/II st/LM1/LM1_myjnia/LM1_myjnia/obj/Debug/net7.0/LM1_myjnia.csproj.CoreCompileInputs.cache
+/Users/pawelw/Desktop/II st/LM1/LM1_myjnia/LM1_myjnia/obj/Debug/net7.0/LM1_myjnia.dll
+/Users/pawelw/Desktop/II st/LM1/LM1_myjnia/LM1_myjnia/obj/Debug/net7.0/refint/LM1_myjnia.dll
+/Users/pawelw/Desktop/II st/LM1/LM1_myjnia/LM1_myjnia/obj/Debug/net7.0/LM1_myjnia.pdb
+/Users/pawelw/Desktop/II st/LM1/LM1_myjnia/LM1_myjnia/obj/Debug/net7.0/LM1_myjnia.genruntimeconfig.cache
+/Users/pawelw/Desktop/II st/LM1/LM1_myjnia/LM1_myjnia/obj/Debug/net7.0/ref/LM1_myjnia.dll
+/Users/pawelw/Desktop/II st/Lingwistyka matematyczna/Lab/1/LM1_myjnia/LM1_myjnia/bin/Debug/net7.0/LM1_myjnia
+/Users/pawelw/Desktop/II st/Lingwistyka matematyczna/Lab/1/LM1_myjnia/LM1_myjnia/bin/Debug/net7.0/LM1_myjnia.deps.json
+/Users/pawelw/Desktop/II st/Lingwistyka matematyczna/Lab/1/LM1_myjnia/LM1_myjnia/bin/Debug/net7.0/LM1_myjnia.runtimeconfig.json
+/Users/pawelw/Desktop/II st/Lingwistyka matematyczna/Lab/1/LM1_myjnia/LM1_myjnia/bin/Debug/net7.0/LM1_myjnia.dll
+/Users/pawelw/Desktop/II st/Lingwistyka matematyczna/Lab/1/LM1_myjnia/LM1_myjnia/bin/Debug/net7.0/LM1_myjnia.pdb
+/Users/pawelw/Desktop/II st/Lingwistyka matematyczna/Lab/1/LM1_myjnia/LM1_myjnia/obj/Debug/net7.0/LM1_myjnia.csproj.AssemblyReference.cache
+/Users/pawelw/Desktop/II st/Lingwistyka matematyczna/Lab/1/LM1_myjnia/LM1_myjnia/obj/Debug/net7.0/LM1_myjnia.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pawelw/Desktop/II st/Lingwistyka matematyczna/Lab/1/LM1_myjnia/LM1_myjnia/obj/Debug/net7.0/LM1_myjnia.AssemblyInfoInputs.cache
+/Users/pawelw/Desktop/II st/Lingwistyka matematyczna/Lab/1/LM1_myjnia/LM1_myjnia/obj/Debug/net7.0/LM1_myjnia.AssemblyInfo.cs
+/Users/pawelw/Desktop/II st/Lingwistyka matematyczna/Lab/1/LM1_myjnia/LM1_myjnia/obj/Debug/net7.0/LM1_myjnia.csproj.CoreCompileInputs.cache
+/Users/pawelw/Desktop/II st/Lingwistyka matematyczna/Lab/1/LM1_myjnia/LM1_myjnia/obj/Debug/net7.0/LM1_myjnia.dll
+/Users/pawelw/Desktop/II st/Lingwistyka matematyczna/Lab/1/LM1_myjnia/LM1_myjnia/obj/Debug/net7.0/refint/LM1_myjnia.dll
+/Users/pawelw/Desktop/II st/Lingwistyka matematyczna/Lab/1/LM1_myjnia/LM1_myjnia/obj/Debug/net7.0/LM1_myjnia.pdb
+/Users/pawelw/Desktop/II st/Lingwistyka matematyczna/Lab/1/LM1_myjnia/LM1_myjnia/obj/Debug/net7.0/LM1_myjnia.genruntimeconfig.cache
+/Users/pawelw/Desktop/II st/Lingwistyka matematyczna/Lab/1/LM1_myjnia/LM1_myjnia/obj/Debug/net7.0/ref/LM1_myjnia.dll
+/Users/pawelw/Desktop/II st/Lingwistyka matematyczna/Lab/1/LM1_myjniav2/LM1_myjnia/bin/Debug/net7.0/LM1_myjnia
+/Users/pawelw/Desktop/II st/Lingwistyka matematyczna/Lab/1/LM1_myjniav2/LM1_myjnia/bin/Debug/net7.0/LM1_myjnia.deps.json
+/Users/pawelw/Desktop/II st/Lingwistyka matematyczna/Lab/1/LM1_myjniav2/LM1_myjnia/bin/Debug/net7.0/LM1_myjnia.runtimeconfig.json
+/Users/pawelw/Desktop/II st/Lingwistyka matematyczna/Lab/1/LM1_myjniav2/LM1_myjnia/bin/Debug/net7.0/LM1_myjnia.dll
+/Users/pawelw/Desktop/II st/Lingwistyka matematyczna/Lab/1/LM1_myjniav2/LM1_myjnia/bin/Debug/net7.0/LM1_myjnia.pdb
+/Users/pawelw/Desktop/II st/Lingwistyka matematyczna/Lab/1/LM1_myjniav2/LM1_myjnia/obj/Debug/net7.0/LM1_myjnia.csproj.AssemblyReference.cache
+/Users/pawelw/Desktop/II st/Lingwistyka matematyczna/Lab/1/LM1_myjniav2/LM1_myjnia/obj/Debug/net7.0/LM1_myjnia.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pawelw/Desktop/II st/Lingwistyka matematyczna/Lab/1/LM1_myjniav2/LM1_myjnia/obj/Debug/net7.0/LM1_myjnia.AssemblyInfoInputs.cache
+/Users/pawelw/Desktop/II st/Lingwistyka matematyczna/Lab/1/LM1_myjniav2/LM1_myjnia/obj/Debug/net7.0/LM1_myjnia.AssemblyInfo.cs
+/Users/pawelw/Desktop/II st/Lingwistyka matematyczna/Lab/1/LM1_myjniav2/LM1_myjnia/obj/Debug/net7.0/LM1_myjnia.csproj.CoreCompileInputs.cache
+/Users/pawelw/Desktop/II st/Lingwistyka matematyczna/Lab/1/LM1_myjniav2/LM1_myjnia/obj/Debug/net7.0/LM1_myjnia.dll
+/Users/pawelw/Desktop/II st/Lingwistyka matematyczna/Lab/1/LM1_myjniav2/LM1_myjnia/obj/Debug/net7.0/refint/LM1_myjnia.dll
+/Users/pawelw/Desktop/II st/Lingwistyka matematyczna/Lab/1/LM1_myjniav2/LM1_myjnia/obj/Debug/net7.0/LM1_myjnia.pdb
+/Users/pawelw/Desktop/II st/Lingwistyka matematyczna/Lab/1/LM1_myjniav2/LM1_myjnia/obj/Debug/net7.0/LM1_myjnia.genruntimeconfig.cache
+/Users/pawelw/Desktop/II st/Lingwistyka matematyczna/Lab/1/LM1_myjniav2/LM1_myjnia/obj/Debug/net7.0/ref/LM1_myjnia.dll
